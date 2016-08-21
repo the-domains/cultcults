@@ -1,4 +1,3 @@
-layout_spectrum: 0.9737082829233259
 typography_spectrum: 0.7723881783895195
 color:
   brandStrength: 0.3630025153979659
@@ -11,4 +10,6 @@ color:
     - '#D4B7A4'
     - '#5F5E63'
     - '#B38671'
+layout_spectrum: 0.9737082829233259
 name: CultCults
+title: Creative Talent Agency
