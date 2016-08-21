@@ -1,3 +1,4 @@
+layout_spectrum: 0.9737082829233259
 typography_spectrum: 0.7723881783895195
 color:
   brandStrength: 0.3630025153979659
@@ -5,16 +6,9 @@ color:
   saturation: 0.5911948541179299
   rhythmicContrast: 0.35333318868651986
   brandColors:
-    - '#FFFFFF'
-    - '#060606'
-    - '#D4B7A4'
-    - '#5F5E63'
-    - '#B38671'
-layout_spectrum: 0.9737082829233259
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: CultCults
-navigation:
-  - name: Partners
-    url: 'http://www.charliecult.com'
-    type: external
-title: Creative Talent Agency
-description: Artist Management
