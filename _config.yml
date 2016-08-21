@@ -12,5 +12,9 @@ color:
     - '#B38671'
 layout_spectrum: 0.9737082829233259
 name: CultCults
+navigation:
+  - name: Partners
+    url: 'http://www.charliecult.com'
+    type: external
 title: Creative Talent Agency
 description: Artist Management
